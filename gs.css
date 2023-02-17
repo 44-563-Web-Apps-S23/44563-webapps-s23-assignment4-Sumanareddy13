@@ -22,14 +22,11 @@ p.direction:hover{
 .JACQUES{
     color:brown;
 }
-
-
-
 table{
     border:solid 4px red;
     border-collapse:collapse;
-    padding:10px;
-    margin:70px 14em 15pt 15%;
+    padding:15px;
+    margin:100px 14em 15pt 15%;
 }
 td,th{
     border:solid 2px;

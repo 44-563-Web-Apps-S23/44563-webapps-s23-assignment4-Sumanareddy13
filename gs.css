@@ -1,0 +1,48 @@
+h6{
+    color:black;
+}
+px.speech
+{
+    color:black;
+    font-size:10x;
+    font-family:'Courier New',Courier,monospace;
+}
+p.direction{
+    font-family:'Courier New', Courier,monospace;
+    color:red;font-size:10px;
+}
+p.direction:hover{
+    color:blue;
+    font:10px;;
+
+    background-color:pink;
+}
+.HENRIETTE:hover{
+    font-style:bold;
+    color:black;
+}
+.JACQUES:hover{
+    font-size:bold;
+    color:black;
+}
+table{
+    border:solid 4px red;
+    border-collapse:collapse;
+    padding:10px;
+    margin:70px 14em 15pt 15%;
+}
+td,th{
+    border:solid 2px;
+    text-align:center;
+}
+tr:nth-child(even)
+{
+background-color:pink;
+}
+h6:hover{
+    text-shadow:2px 3px 5px black;
+    background-color:aquamarine;
+    border:solid 4px;border-color: brown;
+    box-shadow:5px 4px 7px orange;
+}
+

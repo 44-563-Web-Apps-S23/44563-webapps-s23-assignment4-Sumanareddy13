@@ -47,4 +47,24 @@ th{
     border:solid 4px;border-color:lightseagreen;
     box-shadow:5px 4px 7px pink;
 }
+ul.navbar-horizontal {
+        
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:cyan;
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
+    
+    ul.navbar-horizontal a:hover {  
+    background-color: green;
+    color:white;
+    }
 

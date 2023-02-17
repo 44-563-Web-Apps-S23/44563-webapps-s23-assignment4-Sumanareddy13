@@ -35,10 +35,16 @@ td,th{
 th{
     background-color:cornflowerblue;
 }
-h6:hover{
+.HENRIETTE:hover{
     text-shadow:2px 3px 5px black;
     background-color:aquamarine;
-    border:solid 4px;border-color: brown;
+    border:solid 4px;border-color: purple;
     box-shadow:5px 4px 7px orange;
+}
+.JACQUES:hover{
+    text-shadow:2px 3px 5px black;
+    background-color:plum;
+    border:solid 4px;border-color:lightseagreen;
+    box-shadow:5px 4px 7px pink;
 }
 

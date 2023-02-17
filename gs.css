@@ -23,18 +23,17 @@ p.direction:hover{
     color:brown;
 }
 table{
-    border:solid 4px red;
+    border:solid 3px peachpuff;
     border-collapse:collapse;
     padding:15px;
-    margin:100px 14em 15pt 15%;
+    margin: 20px 14em 15pt 15%;
 }
 td,th{
     border:solid 2px;
     text-align:center;
 }
-tr:nth-child(even)
-{
-background-color:pink;
+th{
+    background-color:cornflowerblue;
 }
 h6:hover{
     text-shadow:2px 3px 5px black;

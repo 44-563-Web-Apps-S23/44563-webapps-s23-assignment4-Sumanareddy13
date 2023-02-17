@@ -1,30 +1,30 @@
-h6{
-    color:black;
+.name{
+    color:green;
 }
-px.speech
+p.speech
 {
     color:black;
-    font-size:10x;
+    font-size:medium;
     font-family:'Courier New',Courier,monospace;
 }
 p.direction{
-    font-family:'Courier New', Courier,monospace;
-    color:red;font-size:10px;
+    font-family:'Times',serif,Arial;
+    color:black;font-size:small;
+    background-color:peachpuff;
 }
 p.direction:hover{
     color:blue;
-    font:10px;;
+    background-color:cyan;
+}
+.HENRIETTE {
+    color:deeppink;
+}
+.JACQUES{
+    color:brown;
+}
 
-    background-color:pink;
-}
-.HENRIETTE:hover{
-    font-style:bold;
-    color:black;
-}
-.JACQUES:hover{
-    font-size:bold;
-    color:black;
-}
+
+
 table{
     border:solid 4px red;
     border-collapse:collapse;
